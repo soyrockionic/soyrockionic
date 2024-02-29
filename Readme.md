@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">Contacto</h3>
+<h3 align="left">Contactos</h3>
 
 <div align="left">
   <a href="https://www.instagram.com/juan.orue.95/" class="no-decoration">
