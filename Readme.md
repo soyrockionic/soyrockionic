@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Lengaujes de programacion</h2>
+<h3 align="left">Lengaujes de programacion</h3>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="left">Contacto</h2>
+<h3 align="left">Contacto</h3>
 
 <div align="left">
   <a href="https://www.instagram.com/juan.orue.95/" class="no-decoration">
