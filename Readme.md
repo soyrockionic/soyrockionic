@@ -39,5 +39,5 @@
 </div>
 
 ###
-  ![Estrellas](https://badgen.net/github/stars/https://github.com/soyrockionic/FOD-2022)
+  https://badgen.net/github/stars/soyrockionic/FOD-2022
 ###
