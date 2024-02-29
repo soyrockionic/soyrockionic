@@ -1,4 +1,4 @@
-![161180280-deefbec6-6bf9-4845-b365-856820980a43]([https://user-images.githubusercontent.com/portada.gif](https://github.com/soyrockionic/soyrockionic/blob/master/portada.gif))
+![161180280-deefbec6-6bf9-4845-b365-856820980a43](https://github.com/soyrockionic/soyrockionic/blob/master/portada.gif)
 <h2 align="left">Hola soy Juan programador autodidacta y alumno de 2do año y 3er año de la facultad de informatica de la UNLP</h2>
 
 ###
