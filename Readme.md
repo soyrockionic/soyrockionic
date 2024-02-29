@@ -40,7 +40,6 @@
 
 ###
 
-<a href="[oooo](https://github.com/soyrockionic/FOD-2022)">
-</a>
 
+[oooo](https://github.com/soyrockionic/FOD-2022)
 ###
