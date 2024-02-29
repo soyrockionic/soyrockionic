@@ -38,7 +38,7 @@
   </a>
 
   <a href="https://wa.me/2215035762">
-    <img src="https://github.com/soyrockionic/soyrockionic/blob/master/whatsapp.png" height="35" width="60" alt="whatsapp logo"  />
+    <img src="https://github.com/soyrockionic/soyrockionic/blob/master/whatsapp.jpg" height="35" width="60" alt="whatsapp logo"  />
   </a>
   
 </div>
