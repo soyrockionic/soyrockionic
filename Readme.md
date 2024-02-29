@@ -39,5 +39,5 @@
 </div>
 
 ###
-  [¡Únete a mi servidor de Discord!](https://discord.com/users/juanorue)
+  [https://discord.com/users/juanorue](https://discord.com/users/juanorue)
 ###
