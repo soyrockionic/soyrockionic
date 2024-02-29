@@ -14,9 +14,8 @@
 
 ###
 
-<h2 align="left">Lengaujes de programacion</h2>
-
 <div align="left">
+  <h2 align="left">Lengaujes de programacion</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://github.com/soyrockionic/soyrockionic/blob/master/pascal.png" height="30" alt="pascal logo"  />
