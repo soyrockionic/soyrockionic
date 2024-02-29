@@ -36,12 +36,13 @@
   <a href="#" class="no-decoration">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" width="120" alt="discord logo"  />
   </a>
+
+  <a href="https://wa.me/2215035762">
+    <img src="https://github.com/soyrockionic/soyrockionic/blob/master/whatsapp.png" height="35" width="120" alt="whatsapp logo"  />
+  </a>
+  
 </div>
 
 ###
-
-  <a href="https://wa.me/2215035762">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" height="30" alt="whatsapp logo"  />
-  </a>
   
 ###
