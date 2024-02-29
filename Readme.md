@@ -41,6 +41,8 @@
 ###
 
 <a href="[git@github.com:soyrockionic/FOD-2022.git](https://github.com/soyrockionic/FOD-2022)">
+  
+  <img src="[git@github.com:soyrockionic/FOD-2022.git](https://github.com/soyrockionic/FOD-2022)" height="35" width="120" alt="discord logo"  />
 </a>
 
 ###
