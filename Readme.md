@@ -39,5 +39,5 @@
 </div>
 
 ###
-  [https://discord.com/users/juanorue](https://discord.com/users/juanorue)
+  ![https://discord.com/users/juanorue](https://discord.com/users/juanorue)
 ###
