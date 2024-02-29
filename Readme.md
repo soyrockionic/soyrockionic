@@ -30,17 +30,17 @@
 <h2 align="left">Contacto</h2>
 
 <div align="left">
-  <a href="https://www.instagram.com/juan.orue.95/">
+  <a href="https://www.instagram.com/juan.orue.95/" class="no-decoration">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35"  width="120" alt="instagram logo" />
   </a>
-  <a href="#">
+  <a href="#" class="no-decoration">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" width="120" alt="discord logo"  />
   </a>
 </div>
 
 ###
 
-<a  text-decoration="none" href="https://github.com/soyrockionic/FOD-2022">
+<a href="https://github.com/soyrockionic/FOD-2022" class="no-decoration">
   oooo
 </a>
 
