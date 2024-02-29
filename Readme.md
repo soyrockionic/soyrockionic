@@ -39,5 +39,5 @@
 </div>
 
 ###
-  ![Enviar mensaje de WhatsApp](https://wa.me/2215035762)
+  <a href="https://wa.me/2215035762">Enviar mensaje de WhatsApp</a>
 ###
