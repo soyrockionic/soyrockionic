@@ -39,5 +39,5 @@
 </div>
 
 ###
-  
+  [¡Únete a mi servidor de Discord!](https://discord.gg/ejemplo)
 ###
