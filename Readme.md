@@ -40,7 +40,7 @@
 
 ###
 
-<a href="https://github.com/soyrockionic/FOD-2022">m
+<a href="git@github.com:soyrockionic/FOD-2022.git">
 </a>
 
 ###
