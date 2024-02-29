@@ -39,5 +39,5 @@
 </div>
 
 ###
-  https://badgen.net/github/stars/soyrockionic/FOD-2022
+  
 ###
