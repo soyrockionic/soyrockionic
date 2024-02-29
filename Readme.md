@@ -10,10 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/soyrockionic/soyrockionic/blob/master/pascal.png"  />
-
-###
-
 <h2 align="left">Lengaujes de programacion</h2>
 
 ###
