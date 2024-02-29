@@ -30,14 +30,14 @@
 <h3 align="left">Contactos</h3>
 
 <div align="left">
-  <a href="https://www.instagram.com/juan.orue.95/" class="no-decoration">
+  <a href="https://www.instagram.com/juan.orue.95/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35"  width="130" alt="instagram logo" />
   </a>
-  <a href="#" class="no-decoration">
+  <a href="[#](https://discord.com/users/juanorue)">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" width="130" alt="discord logo"  />
   </a>
 </div>
 
 ###
-  ![https://discord.com/users/juanorue](https://discord.com/users/juanorue)
+  
 ###
