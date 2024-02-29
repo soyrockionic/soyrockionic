@@ -40,7 +40,7 @@
 
 ###
 
-<a href="[git@github.com:soyrockionic/FOD-2022.git](https://github.com/soyrockionic/FOD-2022)">
+<a href="https://github.com/soyrockionic/FOD-2022">
   oooo
 </a>
 
