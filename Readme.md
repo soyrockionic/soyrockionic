@@ -31,7 +31,7 @@
   <a href="https://www.instagram.com/juan.orue.95/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35"  width="120" alt="instagram logo" />
   </a>
-  <a href="https://discord.com/channels/@me/1124350863289364612">
+  <a href="">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" width="120" alt="discord logo"  />
   </a>
 </div>
