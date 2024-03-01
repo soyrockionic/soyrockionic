@@ -51,6 +51,10 @@
   <a href="https://github.com/soyrockionic/Python">
     <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=Python&theme=dark" />
   </a> 
+  <a href="https://github.com/soyrockionic/Design-Y-Verificacion-de-Programas-Concurrentes">
+    <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=Design-Y-Verificacion-de-Programas-Concurrentes&theme=dark" />
+  </a> 
 </div>
   
 ###
+
