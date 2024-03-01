@@ -42,7 +42,7 @@
 
 <div align="center">
   <a href="https://github.com/soyrockionic/fod">
-    <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=AyED&theme=dark" />
+    <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=fod&theme=dark" />
   </a>  
 </div>
   
