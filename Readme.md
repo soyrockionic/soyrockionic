@@ -39,5 +39,7 @@
 </div>
 
 ###
-  
+  <a href="https://github.com/soyrockionic/fod">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=AyED&theme=dark" />
+    </a>  
 ###
