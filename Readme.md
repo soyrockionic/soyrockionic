@@ -39,5 +39,5 @@
 </div>
 
 ###
-  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>No tengas miedo en agregarme, no muerdo</b> <img src="https://media.giphy.com/media/UTw9wnoyP8Pcs/giphy.gif?cid=ecf05e475s18lkiw0x9rosdpaqv42qwlob2xtzr6r8p75o44&rid=giphy.gif&ct=g" width="60"></em>
 ###
