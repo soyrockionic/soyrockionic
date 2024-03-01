@@ -47,7 +47,10 @@
   </a> 
   <a href="https://github.com/soyrockionic/oo1-2022">
     <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=oo1-2022&theme=dark" />
-  </a>  
+  </a>
+  <a href="https://github.com/soyrockionic/Python">
+    <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&Python&theme=dark" />
+  </a> 
 </div>
   
 ###
