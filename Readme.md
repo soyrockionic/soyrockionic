@@ -34,7 +34,9 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35"  width="130" alt="instagram logo" />
   </a>
   <a href="https://discord.com/users/juanorue">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" width="130" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7<a href="https://github.com/soyrockionic/fod">
+    <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=fod&theme=dark" />
+  </a>  289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" width="130" alt="discord logo"  />
   </a>
 </div>
 
@@ -44,6 +46,9 @@
    <h3>Segundo Año</h3>
   <a href="https://github.com/soyrockionic/fod">
     <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=fod&theme=dark" />
+  </a> 
+  <a href="https://github.com/soyrockionic/oo1">
+    <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=oo1&theme=dark" />
   </a>  
 </div>
   
