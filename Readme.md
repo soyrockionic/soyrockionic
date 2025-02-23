@@ -47,8 +47,8 @@
   <a href="https://github.com/soyrockionic/fod">
     <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=fod&theme=dark" />
   </a> 
-  <a href="https://github.com/soyrockionic/oo1-2022">
-    <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=oo1-2022&theme=dark&cache_seconds=86400" />
+  <a href="https://github.com/soyrockionic/OO1-2022">
+    <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=oo1-2022&theme=dark" />
   </a>
   <a href="https://github.com/soyrockionic/Python">
     <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=Python&theme=dark" />
