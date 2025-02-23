@@ -57,7 +57,7 @@
     <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=Design-Y-Verificacion-de-Programas-Concurrentes&theme=dark" />
   </a>
   <a href="https://github.com/soyrockionic/AyED">
-    <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=AyED&theme=dark" />
+    <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=AyED&theme=dark&cache_seconds=86400" />
   </a>
 </div>
   
