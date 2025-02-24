@@ -45,7 +45,7 @@
 <div align="center">
    <h3>Segundo Año</h3>
   <a href="https://github.com/soyrockionic/fod">
-    <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=fod&theme=dark&cache_seconds=86400" />
+    <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=fod&theme=dark" />
   </a> 
   <a href="https://github.com/soyrockionic/OO1-2022">
     <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=oo1-2022&theme=dark" />
