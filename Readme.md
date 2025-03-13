@@ -50,7 +50,7 @@
   <a href="https://github.com/soyrockionic/OO1-2022">
     <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=oo1-2022&theme=dark" />
   </a>
-  <a href="https://github.com/soyrockionic/Python">
+  <a href="https://github.com/soyrockionic/Python2023">
     <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=Python2023&theme=dark" />
   </a> 
   <a href="https://github.com/soyrockionic/Design-Y-Verificacion-de-Programas-Concurrentes">
