@@ -5,7 +5,7 @@
 
 <div align="left">
     <h3 align="left">Contactos:</h3>
-    <h4>-- soyrockionic@gmail.com</h4>
+    <h4>. soyrockionic@gmail.com</h4>
 </div>
 
 ---
