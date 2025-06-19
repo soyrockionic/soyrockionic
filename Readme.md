@@ -4,9 +4,9 @@
 ###
 
 <div align="left">
-    <h3 align="left">Contactos:</h3>
-    <h4>Email: soyrockionic@gmail.com</h4>
-    <h4>Telegram: @lapazseaentucasa</h4>
+  <h3>Contactos:</h3>
+  <p style="margin: 0;">Email: soyrockionic@gmail.com</p>
+  <p style="margin: 0;">Telegram: @lapazseaentucasa</p>
 </div>
 
 ---
