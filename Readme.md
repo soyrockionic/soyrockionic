@@ -1,5 +1,5 @@
 ![161180280-deefbec6-6bf9-4845-b365-856820980a43](https://github.com/soyrockionic/soyrockionic/blob/master/portada.gif)
-<h3 align="left">Hola, soy Juan, un programador autodidacta, alumno de 2.º y 3.º año de la Facultad de Informatica de la UNLP, y estudie programacion competitiva durante tres meses.</h3>
+<h3 align="left">Hola, soy un programador autodidacta, alumno de 2.º y 3.º año de la Facultad de Informatica de la UNLP, y estudie programacion competitiva durante tres meses.</h3>
 
 ###
 
