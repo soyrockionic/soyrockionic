@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-   <h3>Segundo Año</h3>
+  <h3>Segundo Año</h3>
   <a href="https://github.com/soyrockionic/fod">
     <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=fod&theme=dark" />
   </a> 
@@ -60,6 +60,10 @@
   </a>
   <a href="https://github.com/soyrockionic/AyED">
     <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=AyED&theme=dark&cache_seconds=86400" />
+  </a>
+  <h3>Talleres</h3>
+  <a href="https://github.com/soyrockionic/TallerICPC-UNLP2025">
+    <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=TallerICPC-UNLP2025&theme=dark" />
   </a>
 </div>
   
