@@ -5,8 +5,8 @@
 
 <div align="left">
     <h3 align="left">Contactos:</h3>
-    <h4><a href="mailto:soyrockionic@gmail.com" style="text-decoration: none;">Email: soyrockionic@gmail.com</a></h4>
-    <h4><a href="https://t.me/lapazseaentucasa" style="text-decoration: none;">Telegram: https://t.me/lapazseaentucasa</a></h4>
+    <h4>Email: soyrockionic@gmail.com</h4>
+    <h4>Telegram: @lapazseaentucasa</h4>
 </div>
 
 ---
