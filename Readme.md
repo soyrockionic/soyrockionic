@@ -6,7 +6,7 @@
 <div align="left">
   <h3>Contactos:</h3>
   <p style="margin: 0;"><strong>Email: soyrockionic@gmail.com</strong></p>
-  <p style="margin: 0;"><strong>Telegram: @lapazseaentucasa</strong></p>
+  <p style="margin: 0;"><strong>Telegram: <a href="https://t.me/lapazseaentucasa" style="text-decoration: none;">@lapazseaentucasa</a></strong></p>
 </div>
 
 ---
