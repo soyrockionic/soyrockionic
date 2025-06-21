@@ -53,7 +53,7 @@
     <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=Python2023&theme=dark&cache_seconds=86400" />
   </a> 
   <a href="https://github.com/soyrockionic/Design-Y-Verificacion-de-Programas-Concurrentes">
-    <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=Design-Y-Verificacion-de-Programas-Concurrentes&theme=onedark" />
+    <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=Design-Y-Verificacion-de-Programas-Concurrentes&theme=dark" />
   </a>
   <a href="https://github.com/soyrockionic/AyED">
     <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=AyED&theme=dark&cache_seconds=86400" />
@@ -63,7 +63,8 @@
     <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=TallerICPC-UNLP2025&theme=dark" />
   </a>
 </div>
-
+---
+<h4>Trofeos</h4>
 [![trophy](https://github-profile-trophy.vercel.app/?username=soyrockionic&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
