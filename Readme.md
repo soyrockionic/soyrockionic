@@ -63,8 +63,5 @@
     <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=TallerICPC-UNLP2025&theme=dark" />
   </a>
 </div>
----
-<h4>Trofeos</h4>
-[![trophy](https://github-profile-trophy.vercel.app/?username=soyrockionic&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
