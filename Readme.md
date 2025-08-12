@@ -5,7 +5,7 @@
 ###
 
 <div align="left">
-  <h3>Contactos:</h3>
+  <h4>Contactos:</h4>
   <p style="margin: 0;"><strong>Email: soyrockionic@gmail.com</strong></p>
 </div>
 
