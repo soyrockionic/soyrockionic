@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <h3>Github Stats</h3>
+  <h4>Github Stats</h4>
   <img src="https://github-readme-stats.vercel.app/api?username=soyrockionic&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" height="150" alt="stats graph" />
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=soyrockionic&show_icons=true&theme=dracula" height="150" alt="stats graph"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soyrockionic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">Lenguajes de programacion</h3>
+<h4 align="left">Lenguajes de programacion</h4>
 
 ###
 
