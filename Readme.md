@@ -1,4 +1,4 @@
-<h3 align="left">Hola, soy Juan, un programador autodidacta, alumno de 2.º y 3.º año de la Facultad de Informatica de la UNLP.</h3>
+<h3 align="left">Hola, soy Juan, un programador autodidacta, alumno de la Facultad de Informatica de la UNLP.</h3>
 <h3 align="left">Estudie programacion competitiva durante tres meses.</h3>
 
 ###
