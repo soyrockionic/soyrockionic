@@ -1,5 +1,4 @@
 <h4 align="left">Hola, soy un programador autodidacta y alumno de la Facultad de Informatica de la UNLP.</h4>
-<h4 align="left">Ayudante colaborador del Seminario de Python 2025 de la Facultad de Informatica de la UNLP.</h4>
 <h4 align="left">Estudie programacion competitiva durante tres meses.</h4>
 
 ###
