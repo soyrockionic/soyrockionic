@@ -12,25 +12,6 @@
 
 ###
 
-<h4 align="left">Lenguajes de programacion</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://github.com/soyrockionic/soyrockionic/blob/master/pascal.png" height="30" alt="pascal logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-</div>
-
----
-
-###
-
 <div align="center">
   <h3>Segundo Año</h3>
   <a href="https://github.com/soyrockionic/fod">
