@@ -34,6 +34,9 @@
   <a href="https://github.com/soyrockionic/TallerICPC-UNLP2025">
     <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=TallerICPC-UNLP2025&theme=dark" />
   </a>
+  <a href="https://github.com/soyrockionic/Intro-a-Ciberseguridad">
+    <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=soyrockionic&repo=Intro-a-Ciberseguridad&theme=dark" />
+  </a>
 </div>
 
 ###
