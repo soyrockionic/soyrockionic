@@ -1,6 +1,6 @@
 <h4 align="left">Soy un programador autodidacta y alumno de la Facultad de Informatica de la UNLP.</h4>
 <h4 align="left">Estudie programacion competitiva durante cuatro meses - 2025.</h4>
-<h4 align="LEFT">Complete el curso de Introduccion a la Ciberseguridad - UNLP 2025.</h4>
+<h4 align="LEFT">Complete el curso de Introduccion a la Ciberseguridad - Club de programacion UNLP 2025.</h4>
 
 ###
 
